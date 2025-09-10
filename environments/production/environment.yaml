@@ -1,12 +1,12 @@
 #
 # Configuration for environment
 #
-version: 1.0
+version: 1.1
 app:
   # Set the build version ID to deploy for the "Build, deploy, and run" 
   # scenario. If the value is set to an empty string ("") the application
   # is not deployed.
-  version: "c87b1deb-01f0-43df-9315-650c05b25e72"
+  version: "f445b871-ba0c-478e-9fbb-e8764093d4e5"
   
   # Set the Maven coordinates of the Maven artifact to deploy for the 
   # "Deploy, and run" scenario.
